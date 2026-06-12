@@ -5,6 +5,7 @@ The current Host Software can be tested without the STM32 and is currently confi
 
 ```bash
 # Debian/Ubuntu systems
+cd cnc-software-host_V1.2
 make
 ./CNC_Control
 ```
